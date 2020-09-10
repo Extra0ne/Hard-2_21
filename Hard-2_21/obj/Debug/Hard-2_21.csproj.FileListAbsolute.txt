@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\bin\Debug\Hard-2_21.exe.config
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\bin\Debug\Hard-2_21.exe
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\bin\Debug\Hard-2_21.pdb
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\obj\Debug\Hard-2_21.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\obj\Debug\Hard-2_21.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\obj\Debug\Hard-2_21.exe
+C:\Users\Polzovatel\source\repos\Hard-2_21\Hard-2_21\obj\Debug\Hard-2_21.pdb
